@@ -153,7 +153,7 @@
       <url hash="6fd19fec">C67-1027</url>
     </paper>
     <paper id="28">
-      <title>Essai D’une Theorie Semantique Applicable Au Traitement De Langage</title>
+      <title>Essai D’une Theorie Semantique Applicable <fixed-case>A</fixed-case>u Traitement De Langage</title>
       <author><first>A.</first><last>Jolkovsky</last></author>
       <author id="igor-melcuk"><first>I.</first><last>Mel’cuk</last></author>
       <url hash="1788a2c7">C67-1028</url>

@@ -643,7 +643,7 @@
       <url hash="49c26224">D10-1078</url>
     </paper>
     <paper id="79">
-      <title>A Probabilistic Morphological Analyzer for Syriac</title>
+      <title>A Probabilistic Morphological Analyzer for <fixed-case>S</fixed-case>yriac</title>
       <author><first>Peter</first><last>McClanahan</last></author>
       <author><first>George</first><last>Busby</last></author>
       <author><first>Robbie</first><last>Haertel</last></author>

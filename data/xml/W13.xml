@@ -4318,7 +4318,7 @@
       <url hash="0771703b">W13-2904</url>
     </paper>
     <paper id="5">
-      <title>Text Modification for <fixed-case>B</fixed-case>ulgarian Sign Language Users</title>
+      <title>Text Modification for <fixed-case>B</fixed-case>ulgarian <fixed-case>S</fixed-case>ign <fixed-case>L</fixed-case>anguage Users</title>
       <author><first>Slavina</first><last>Lozanova</last></author>
       <author><first>Ivelina</first><last>Stoyanova</last></author>
       <author><first>Svetlozara</first><last>Leseva</last></author>
@@ -5425,7 +5425,7 @@
       <url hash="4623da71">W13-3722</url>
     </paper>
     <paper id="23">
-      <title>Grammatical Markers and Grammatical Relations in the Simple Clause in Old <fixed-case>F</fixed-case>rench</title>
+      <title>Grammatical Markers and Grammatical Relations in the Simple Clause in <fixed-case>O</fixed-case>ld <fixed-case>F</fixed-case>rench</title>
       <author><first>Nicolas</first><last>Mazziotta</last></author>
       <pages>207–216</pages>
       <url hash="6918b8a9">W13-3723</url>
@@ -7166,7 +7166,7 @@
       <url hash="f815a2af">W13-4700</url>
     </frontmatter>
     <paper id="1">
-      <title>Fast Bootstrapping of Grapheme to Phoneme System for Under-resourced Languages - Application to the Iban Language</title>
+      <title>Fast Bootstrapping of Grapheme to Phoneme System for Under-resourced Languages - Application to the <fixed-case>I</fixed-case>ban Language</title>
       <author><first>Sarah</first><last>Samson Juan</last></author>
       <author><first>Laurent</first><last>Besacier</last></author>
       <pages>1–8</pages>
