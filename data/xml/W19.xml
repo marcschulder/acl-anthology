@@ -1324,7 +1324,7 @@
       <doi>10.18653/v1/W19-1407</doi>
     </paper>
     <paper id="8">
-      <title>Neural Machine Translation between <fixed-case>M</fixed-case>yanmar (<fixed-case>B</fixed-case>urmese) and <fixed-case>R</fixed-case>akhine (Arakanese)</title>
+      <title>Neural Machine Translation between <fixed-case>M</fixed-case>yanmar (<fixed-case>B</fixed-case>urmese) and <fixed-case>R</fixed-case>akhine (<fixed-case>A</fixed-case>rakanese)</title>
       <author><first>Thazin</first><last>Myint Oo</last></author>
       <author><first>Ye</first><last>Kyaw Thu</last></author>
       <author><first>Khin</first><last>Mar Soe</last></author>
@@ -14163,7 +14163,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="f20b1817">W19-6909</url>
     </paper>
     <paper id="10">
-      <title>A Character-Level <fixed-case>LSTM</fixed-case> Network Model for Tokenizing the <fixed-case>O</fixed-case>ld <fixed-case>I</fixed-case>rish text of the Würzburg Glosses on the Pauline Epistles</title>
+      <title>A Character-Level <fixed-case>LSTM</fixed-case> Network Model for Tokenizing the <fixed-case>O</fixed-case>ld <fixed-case>I</fixed-case>rish text of the <fixed-case>W</fixed-case>ürzburg Glosses on the Pauline Epistles</title>
       <author><first>Adrian</first><last>Doyle</last></author>
       <author><first>John P.</first><last>McCrae</last></author>
       <author><first>Clodagh</first><last>Downey</last></author>

@@ -1950,7 +1950,7 @@
       <author><first>Christina</first><last>Thornell</last></author>
       <author><first>Malin</first><last>Petzell</last></author>
       <author><first>Torbjörn</first><last>Westerlund</last></author>
-      <title>Bootstrapping Language Description: the case of <fixed-case>M</fixed-case>piemo (<fixed-case>B</fixed-case>antu A, <fixed-case>C</fixed-case>entral <fixed-case>A</fixed-case>frican <fixed-case>R</fixed-case>epublic)</title>
+      <title>Bootstrapping Language Description: the case of <fixed-case>M</fixed-case>piemo (<fixed-case>B</fixed-case>antu <fixed-case>A</fixed-case>, <fixed-case>C</fixed-case>entral <fixed-case>A</fixed-case>frican <fixed-case>R</fixed-case>epublic)</title>
       <url>http://www.lrec-conf.org/proceedings/lrec2008/pdf/848_paper.pdf</url>
       <abstract>Linguists have long been producing grammatical decriptions of yet undescribed languages. This is a time-consuming process, which has already adapted to improved technology for recording and storage. We present here a novel application of NLP techniques to bootstrap analysis of collected data and speed-up manual selection work. To be more precise, we argue that unsupervised induction of morphology and part-of-speech analysis from raw text data is mature enough to produce useful results. Experiments with Latent Semantic Analysis were less fruitful. We exemplify this on Mpiemo, a so-far essentially undescribed Bantu language of the Central African Republic, for which raw text data was available.</abstract>
     </paper>

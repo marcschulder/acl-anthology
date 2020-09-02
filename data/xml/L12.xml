@@ -6305,7 +6305,7 @@
       <author><first>Marie</first><last>Candito</last></author>
       <author><first>Benoit</first><last>Crabbé</last></author>
       <author><first>Enrique Henestroza</first><last>Anguiano</last></author>
-      <title>Ubiquitous Usage of a Broad Coverage <fixed-case>F</fixed-case>rench Corpus: Processing the <fixed-case>E</fixed-case>st Republicain corpus</title>
+      <title>Ubiquitous Usage of a Broad Coverage <fixed-case>F</fixed-case>rench Corpus: Processing the <fixed-case>E</fixed-case>st <fixed-case>R</fixed-case>epublicain corpus</title>
       <pages>3249–3254</pages>
       <url>http://www.lrec-conf.org/proceedings/lrec2012/pdf/1130_Paper.pdf</url>
       <abstract>In this paper, we introduce a set of resources that we have derived from the EST RÉPUBLICAIN CORPUS, a large, freely-available collection of regional newspaper articles in French, totaling 150 million words. Our resources are the result of a full NLP treatment of the EST RÉPUBLICAIN CORPUS: handling of multi-word expressions, lemmatization, part-of-speech tagging, and syntactic parsing. Processing of the corpus is carried out using statistical machine-learning approaches - joint model of data driven lemmatization and part- of-speech tagging, PCFG-LA and dependency based models for parsing - that have been shown to achieve state-of-the-art performance when evaluated on the French Treebank. Our derived resources are made freely available, and released according to the original Creative Common license for the EST RÉPUBLICAIN CORPUS. We additionally provide an overview of the use of these resources in various applications, in particular the use of generated word clusters from the corpus to alleviate lexical data sparseness for statistical parsing.</abstract>

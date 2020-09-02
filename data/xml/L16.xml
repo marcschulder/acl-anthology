@@ -3823,7 +3823,7 @@
       <url hash="d185450d">L16-1394</url>
     </paper>
     <paper id="395">
-      <title>Crosswalking from <fixed-case>CMDI</fixed-case> to <fixed-case>D</fixed-case>ublin Core and <fixed-case>MARC</fixed-case> 21</title>
+      <title>Crosswalking from <fixed-case>CMDI</fixed-case> to <fixed-case>D</fixed-case>ublin <fixed-case>C</fixed-case>ore and <fixed-case>MARC</fixed-case> 21</title>
       <author><first>Claus</first><last>Zinn</last></author>
       <author><first>Thorsten</first><last>Trippel</last></author>
       <author><first>Steve</first><last>Kaminski</last></author>
@@ -4311,7 +4311,7 @@
       <url hash="311f9d80">L16-1445</url>
     </paper>
     <paper id="446">
-      <title>Corpus Query <fixed-case>L</fixed-case>ingua <fixed-case>F</fixed-case>ranca (<fixed-case>CQLF</fixed-case>)</title>
+      <title><fixed-case>C</fixed-case>orpus <fixed-case>Q</fixed-case>uery <fixed-case>L</fixed-case>ingua <fixed-case>F</fixed-case>ranca (<fixed-case>CQLF</fixed-case>)</title>
       <author><first>Piotr</first><last>Bański</last></author>
       <author><first>Elena</first><last>Frick</last></author>
       <author><first>Andreas</first><last>Witt</last></author>

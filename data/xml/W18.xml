@@ -5775,7 +5775,7 @@
       <abstract>Luyia is a macrolanguage in central Kenya. The Luyia languages, like other Bantu languages, have a complex morphological system. This system can be leveraged to aid in part of speech tagging. Bag-of-characters taggers trained on a source Luyia language can be applied directly to another Luyia language with some degree of success. In addition, mixing data from the target language with data from the source language does produce more accurate predictive models compared to models trained on just the target language data when the training set size is small. However, for both of these tagging tasks, models involving the more distantly related language, Tiriki, are better at predicting part of speech tags for Wanga data. The models incorporating Bukusu data are not as successful despite the closer relationship between Bukusu and Wanga. Overlapping vocabulary between the Wanga and Tiriki corpora as well as a bias towards open class words help Tiriki outperform Bukusu.</abstract>
     </paper>
     <paper id="6">
-      <title>Tübingen-<fixed-case>O</fixed-case>slo Team at the <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2018 Evaluation Campaign: An Analysis of N-gram Features in Language Variety Identification</title>
+      <title><fixed-case>T</fixed-case>übingen-<fixed-case>O</fixed-case>slo Team at the <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2018 Evaluation Campaign: An Analysis of N-gram Features in Language Variety Identification</title>
       <author><first>Çağrı</first><last>Çöltekin</last></author>
       <author><first>Taraka</first><last>Rama</last></author>
       <author><first>Verena</first><last>Blaschke</last></author>

@@ -1795,7 +1795,7 @@
       <abstract>This paper presents the cic_ualg’s system that took part in the Discriminating between Similar Languages (DSL) shared task, held at the VarDial 2017 Workshop. This year’s task aims at identifying 14 languages across 6 language groups using a corpus of excerpts of journalistic texts. Two classification approaches were compared: a single-step (all languages) approach and a two-step (language group and then languages within the group) approach. Features exploited include lexical features (unigrams of words) and character n-grams. Besides traditional (untyped) character n-grams, we introduce typed character n-grams in the DSL task. Experiments were carried out with different feature representation methods (binary and raw term frequency), frequency threshold values, and machine-learning algorithms – Support Vector Machines (SVM) and Multinomial Naive Bayes (MNB). Our best run in the DSL task achieved 91.46% accuracy.</abstract>
     </paper>
     <paper id="18">
-      <title>Tübingen system in <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2017 shared task: experiments with language identification and cross-lingual parsing</title>
+      <title><fixed-case>T</fixed-case>übingen system in <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2017 shared task: experiments with language identification and cross-lingual parsing</title>
       <author><first>Çağrı</first><last>Çöltekin</last></author>
       <author><first>Taraka</first><last>Rama</last></author>
       <pages>146–155</pages>
