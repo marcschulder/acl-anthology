@@ -35,9 +35,13 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
         is_always_caps = True
 
         for x in ['Bay', 'Coast', 'Gulf', 'Island', 'Isle', 'Lake', 'Republic', 'University']:
+            xofthe = f'{x} of the '
             xof = f'{x} of '
             yx = f' {x}'
-            if word.startswith(xof):
+            if word.startswith(xofthe):
+                word = word[len(xofthe):]
+                break
+            elif word.startswith(xof):
                 word = word[len(xof):]
                 break
             elif word.endswith(yx):
