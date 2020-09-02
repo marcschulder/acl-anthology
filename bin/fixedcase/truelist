@@ -27,6 +27,7 @@ Abenaki
 Aberdeen
 Aberdeen City
 Aberdeenshire
+Abertawe
 Abia
 Abidji
 Abim
@@ -511,7 +512,7 @@ Angaur
 Angguruk Yali
 Angika
 Angkamuthi
-Anglesey; Sir Ynys Môn
+Anglesey
 Anglo
 Angloromani
 Angola
@@ -1664,6 +1665,7 @@ Brezovica
 Brežice
 Bribri
 Briceni
+Bridgend
 Brien
 Briggs
 Brighton and Hove
@@ -1678,6 +1680,7 @@ British National Corpus
 British Sign Language
 British Sign Language Corpus
 British Virgin Islands
+Bro Morgannwg
 Broca
 Brocēnu novads
 Brokkat
@@ -1693,6 +1696,7 @@ Brunei Bisaya
 Brunei Darussalam
 Bruntál
 Brussels
+Brussels Hoofdstedelijk Gewest
 Brvenica
 Bryanskaya oblast'
 Bryant
@@ -1887,7 +1891,9 @@ Cacgia Roglai
 Cacheu
 Cacua
 Caddo
-Caerphilly; Caerffili
+Caerdydd
+Caerffili
+Caerphilly
 Cafundo Creole
 Cagayan
 Cagayan Agta
@@ -1974,7 +1980,7 @@ Carapana
 Carazo
 Carbonell
 Carchi
-Cardiff; Caerdydd
+Cardiff
 Cargados Carajos Shoals
 Carian
 Caribbean Hindustani
@@ -1982,7 +1988,7 @@ Caribbean Javanese
 Carijona
 Carlo
 Carlow
-Carmarthenshire; Sir Gaerfyrddin
+Carmarthenshire
 Carnegie
 Carnikavas novads
 Carolina
@@ -1998,6 +2004,7 @@ Casanare
 Caserta
 Cashinahua
 Casiguran Dumagat Agta
+Casnewydd
 Castellón
 Castelo Branco
 Castilla y León
@@ -2038,7 +2045,7 @@ Centar
 Centar Župa
 Centro Sur
 Centúúm
-Ceredigion; Sir Ceredigion
+Ceredigion
 Cerklje na Gorenjskem
 Cerknica
 Cerkno
@@ -2479,6 +2486,7 @@ Cuyonon
 Cuza
 Cwi Bwamu
 Cyc
+Cymru
 Cypriot
 Cyprus
 Cyrillic
@@ -2651,7 +2659,7 @@ Democratic People's Republic of Korea
 Democratic Republic of Sao Tome and Principe
 Democratic Socialist Republic of Sri Lanka
 Demta
-Denbighshire; Sir Ddinbych
+Denbighshire
 Dendi
 Dengese
 Dengka
@@ -3287,7 +3295,7 @@ Flevoland
 Flickinger
 Flickr
 Flink
-Flintshire; Sir y Fflint
+Flintshire
 Flores
 Florești
 Floriana
@@ -7054,7 +7062,8 @@ Merity
 Merlav
 Meroitic
 Mersin
-Merthyr Tydfil; Merthyr Tudful
+Merthyr Tudful
+Merthyr Tydfil
 Merton
 Meru
 Merwari
@@ -7323,7 +7332,7 @@ Mongolian
 Mongolian Sign Language
 Mongondow
 Moni
-Monmouthshire; Sir Fynwy
+Monmouthshire
 Monom
 Monsang Naga
 Monseñor Nouel
@@ -7794,6 +7803,7 @@ Ndyuka
 Ndzwani Comorian
 Neamț
 Neapolitan
+Neath Port Talbot
 Nebbi
 Nebraska
 Nedebang
@@ -7861,7 +7871,7 @@ Newari
 Newcastle upon Tyne
 Newfoundland and Labrador
 Newham
-Newport; Casnewydd
+Newport
 Newry
 News20
 Newsela
@@ -8739,7 +8749,7 @@ Peloponnesian
 Peloponnisos
 Pemagatshel
 Pembroke
-Pembrokeshire; Sir Benfro
+Pembrokeshire
 Pemon
 Penan
 Penang Sign Language
@@ -10303,6 +10313,13 @@ Sipacapense
 Sipaliwini
 Siparia
 Siquijor
+Sir Benfro
+Sir Ceredigion
+Sir Ddinbych
+Sir Fynwy
+Sir Gaerfyrddin
+Sir Ynys Môn
+Sir y Fflint
 Sira
 Siracusa
 Sirajganj
@@ -10645,7 +10662,7 @@ Swabian
 Swadesh
 Swahili
 Swampy Cree
-Swansea; Abertawe
+Swansea
 Swati
 Sweden
 Swedish
@@ -11076,7 +11093,6 @@ Thawa
 Thayore
 Thaypan
 The Scottish Borders
-The; Bro Morgannwg Vale of Glamorgan
 Thesprotia
 Thessalia
 Thessaloniki
@@ -11273,6 +11289,7 @@ Toram
 Torau
 Torba
 Torbay
+Torfaen
 Tori
 Torino
 Tornedalen Finnish
@@ -11998,7 +12015,6 @@ Wala
 Walak
 Walangama
 Walchli
-Wales; Cymru
 Wali
 Waling
 Walio
@@ -12225,7 +12241,8 @@ Wotje
 Wotjobaluk
 Wotu
 Woun Meu
-Wrexham; Wrecsam
+Wrecsam
+Wrexham
 Written Oirat
 Wu
 Wudu
