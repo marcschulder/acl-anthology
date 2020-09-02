@@ -24,7 +24,7 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
                       "German Democratic Republic", "Min Bei Chinese", "Min Zhong Chinese", "Interlingua",
                       "Interlingue", "Interglossa", "Sur", "Notre", "Meta'", "Meta", "Amo", "Lingua Franca", "Tera",
                       "Au", "Multiple languages", "Nord", "Ouest", "Uma", "Portuguesa", "Est", "Sar", "wallonne",
-                      "Isle of Anglesey; Sir Ynys Môn"}
+                      "Isle of Anglesey; Sir Ynys Môn", "Attorneys"}
     stopws = set(stopwords.words('english'))
     # re.compile(r'(()|())()')
 
