@@ -17,6 +17,33 @@ def load_wordlist(filename: str) -> Tuple[Set[str], List[str]]:
     return set(lines), comments
 
 
+def drop_adj(adjword):
+    for adj in ['North',
+                'South',
+                'East',
+                'West',
+                'Northeast',
+                'Northwest',
+                'Southeast',
+                'Southwest',
+                'Central',
+                'Northern',
+                'Southern',
+                'Eastern',
+                'Western',
+                'Northeastern',
+                'Northwestern',
+                'Southeastern',
+                'Southwestern',
+                'Modern',
+                'Ancient']:
+        amod = f'{adj} '
+        if adjword.startswith(amod):
+            adjword = adjword[len(amod):]
+            return drop_adj(adjword)
+    return adjword
+
+
 def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bool = False) -> Set[str]:
     filtered_words = {"Bade", "Hung", "Rang", "Sera", "Soli", "Bled", "Imperia", "Central Nahuatl", "Min Nan Chinese",
                       "Min Dong Chinese", "T’bilisi", "St. Helens", "US Miscellaneous Pacific Islands", "MIMAROPA",
@@ -24,7 +51,7 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
                       "German Democratic Republic", "Min Bei Chinese", "Min Zhong Chinese", "Interlingua",
                       "Interlingue", "Interglossa", "Sur", "Notre", "Meta'", "Meta", "Amo", "Lingua Franca", "Tera",
                       "Au", "Multiple languages", "Nord", "Ouest", "Uma", "Portuguesa", "Est", "Sar", "wallonne",
-                      "Isle of Anglesey; Sir Ynys Môn", "Attorneys"}
+                      "Isle of Anglesey; Sir Ynys Môn", "Attorneys", "Shi", "Neko", "Wa", "Nai", "Ha"}
     stopws = set(stopwords.words('english'))
     # re.compile(r'(()|())()')
 
@@ -48,32 +75,6 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
                 word = word[:-len(yx)]
                 break
 
-        def drop_adj(adjword):
-            for adj in ['North',
-                        'South',
-                        'East',
-                        'West',
-                        'Northeast',
-                        'Northwest',
-                        'Southeast',
-                        'Southwest',
-                        'Central',
-                        'Northern',
-                        'Southern',
-                        'Eastern',
-                        'Western',
-                        'Northeastern',
-                        'Northwestern',
-                        'Southeastern',
-                        'Southwestern',
-                        'Modern',
-                        'Ancient']:
-                amod = f'{adj} '
-                if adjword.startswith(amod):
-                    adjword = adjword[len(amod):]
-                    return drop_adj(adjword)
-            return adjword
-
         word = drop_adj(word)
 
         if len(word) < min_length:
@@ -87,7 +88,8 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
             is_always_caps = False
 
         if all([any([c.isupper() for c in w[1:]]) for w in word.split(' ')]):
-            print(word)
+            if verbose:
+                print(word)
             is_always_caps = False
 
         if word.lower() in stopws:
@@ -105,23 +107,35 @@ def filter_lowercaseable_words(words: Set[str], min_length: int = 1, verbose: bo
                     if is_genus or is_place:
                         continue
 
-                    if lemma_name[0].islower():
-                        lemma_is_word_start = word.lower().startswith(lemma_name.lower())
-                        word_part_of_mwe_lemma = '_' in lemma_name and word in lemma_name.split('_')
+                    lemma_name.split('_')
 
-                        if lemma_is_word_start or word_part_of_mwe_lemma:
+                    if lemma_name[0].islower():
+                        mwe_lemma = lemma_name.split('_')
+                        mwe_word = word.split('_')
+                        is_part_of_mwe_lemma = False
+                        is_uppercase_mwe = False
+                        for start_i in range(len(mwe_lemma)-len(mwe_word)+1):
+                            matches_uppercase = True
+                            matches_word_sequence = True
+                            for word_elem, lemma_elem in zip(mwe_word, mwe_lemma[start_i:]):
+                                if word_elem[0].lower() == lemma_elem[0].lower():
+                                    if word_elem != lemma_elem:
+                                        matches_uppercase = False
+                                else:
+                                    matches_word_sequence = False
+                                    break
+
+                            if matches_word_sequence:
+                                is_part_of_mwe_lemma = True
+                                if matches_uppercase:
+                                    is_uppercase_mwe = True
+                                    break
+
+                        if is_part_of_mwe_lemma and not is_uppercase_mwe:
                             is_always_caps = False
-                            # if verbose:
-                            #     print(word, '-', lemma_name, '-', synset.definition())
                         else:
                             false_alarms.append((lemma_name, synset.definition()))
-                            # if verbose:
-                            #     print(word, 'X', lemma_name)
-                    # elif verbose:
-                    #     print(word, '=', lemma_name)
 
-                    # if not is_always_caps:
-                    #     break
                 if not is_always_caps:
                     break
             if is_always_caps and false_alarms:
@@ -165,7 +179,7 @@ other, _ = load_wordlist('LREC.SignLang.-.other.txt')
 
 #%%
 min_len = 2
-v = True
+v = False
 print("Minimum length:", min_len)
 print("### Languages")
 clear_languages = filter_lowercaseable_words(languages, min_length=min_len, verbose=v)
