@@ -146,7 +146,7 @@
       <url hash="0e05777c">W89-0122</url>
     </paper>
     <paper id="23">
-      <title>Machine Aided Translation between the Two <fixed-case>N</fixed-case>orwegian Languages <fixed-case>N</fixed-case>orwegian-<fixed-case>B</fixed-case>okmål and <fixed-case>N</fixed-case>orwegian-<fixed-case>N</fixed-case>ynorsk</title>
+      <title>Machine Aided Translation between the Two <fixed-case>N</fixed-case>orwegian Languages <fixed-case>N</fixed-case>orwegian-<fixed-case>B</fixed-case>okmål and <fixed-case>N</fixed-case>orwegian-Nynorsk</title>
       <author><first>Ivar</first><last>Utne</last></author>
       <pages>250–259</pages>
       <url hash="767a73f9">W89-0123</url>
@@ -394,7 +394,7 @@
       <url hash="7ab8d1af">W89-0224</url>
     </paper>
     <paper id="25">
-      <title>Massively Parallel Parsing in <tex-math>\<fixed-case>P</fixed-case>hi</tex-math><fixed-case>D</fixed-case>m<fixed-case>D</fixed-case>ialog: Integrated Architecture for Parsing Speech Inputs</title>
+      <title>Massively Parallel Parsing in <tex-math>\Phi</tex-math><fixed-case>D</fixed-case>m<fixed-case>D</fixed-case>ialog: Integrated Architecture for Parsing Speech Inputs</title>
       <author><first>Hiroaki</first><last>Kitano</last></author>
       <author><first>Teruko</first><last>Mitamura</last></author>
       <author><first>Masaru</first><last>Tomita</last></author>

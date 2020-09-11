@@ -1170,7 +1170,7 @@
       <url hash="5dd813ad">C08-2003</url>
     </paper>
     <paper id="4">
-      <title>The Power of Negative Thinking: Exploiting Label Disagreement in the Min-cut Classification Framework</title>
+      <title>The Power of Negative Thinking: Exploiting Label Disagreement in the <fixed-case>M</fixed-case>in-cut Classification Framework</title>
       <author><first>Mohit</first><last>Bansal</last></author>
       <author><first>Claire</first><last>Cardie</last></author>
       <author><first>Lillian</first><last>Lee</last></author>

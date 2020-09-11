@@ -169,7 +169,7 @@
       <doi>10.18653/v1/W17-0116</doi>
     </paper>
     <paper id="17">
-      <title><fixed-case>J</fixed-case>ejueo talking dictionary: A collaborative online database for language revitalization</title>
+      <title>Jejueo talking dictionary: A collaborative online database for language revitalization</title>
       <author><first>Moira</first><last>Saltzman</last></author>
       <pages>122–129</pages>
       <url hash="ebabd9f9">W17-0117</url>
@@ -436,7 +436,7 @@
       <url hash="9d473782">W17-0225</url>
     </paper>
     <paper id="26">
-      <title>Iconic Locations in <fixed-case>S</fixed-case>wedish <fixed-case>S</fixed-case>ign <fixed-case>L</fixed-case>anguage: Mapping Form to Meaning with Lexical Databases</title>
+      <title>Iconic Locations in <fixed-case>S</fixed-case>wedish Sign Language: Mapping Form to Meaning with Lexical Databases</title>
       <author><first>Carl</first><last>Börstell</last></author>
       <author><first>Robert</first><last>Östling</last></author>
       <pages>221–225</pages>
@@ -565,7 +565,7 @@
       <url hash="c4802c7c">W17-0242</url>
     </paper>
     <paper id="43">
-      <title><fixed-case>U</fixed-case>niversal <fixed-case>D</fixed-case>ependencies for <fixed-case>S</fixed-case>wedish <fixed-case>S</fixed-case>ign <fixed-case>L</fixed-case>anguage</title>
+      <title><fixed-case>U</fixed-case>niversal <fixed-case>D</fixed-case>ependencies for <fixed-case>S</fixed-case>wedish Sign Language</title>
       <author><first>Robert</first><last>Östling</last></author>
       <author><first>Carl</first><last>Börstell</last></author>
       <author><first>Moa</first><last>Gärdenfors</last></author>
@@ -870,7 +870,7 @@
       <url hash="a0540f51">W17-0501</url>
     </paper>
     <paper id="2">
-      <title>Improving <fixed-case>POS</fixed-case> Tagging in <fixed-case>O</fixed-case>ld <fixed-case>S</fixed-case>panish Using <fixed-case>TEITOK</fixed-case></title>
+      <title>Improving <fixed-case>POS</fixed-case> Tagging in Old <fixed-case>S</fixed-case>panish Using <fixed-case>TEITOK</fixed-case></title>
       <author><first>Maarten</first><last>Janssen</last></author>
       <author><first>Josep</first><last>Ausensi</last></author>
       <author><first>Josep</first><last>Fontana</last></author>
@@ -1006,7 +1006,7 @@
       <doi>10.18653/v1/W17-0605</doi>
     </paper>
     <paper id="6">
-      <title>Language technology resources and tools for <fixed-case>M</fixed-case>ansi: an overview</title>
+      <title>Language technology resources and tools for Mansi: an overview</title>
       <author><first>Csilla</first><last>Horváth</last></author>
       <author><first>Norbert</first><last>Szilágyi</last></author>
       <author><first>Veronika</first><last>Vincze</last></author>
@@ -1795,7 +1795,7 @@
       <abstract>This paper presents the cic_ualg’s system that took part in the Discriminating between Similar Languages (DSL) shared task, held at the VarDial 2017 Workshop. This year’s task aims at identifying 14 languages across 6 language groups using a corpus of excerpts of journalistic texts. Two classification approaches were compared: a single-step (all languages) approach and a two-step (language group and then languages within the group) approach. Features exploited include lexical features (unigrams of words) and character n-grams. Besides traditional (untyped) character n-grams, we introduce typed character n-grams in the DSL task. Experiments were carried out with different feature representation methods (binary and raw term frequency), frequency threshold values, and machine-learning algorithms – Support Vector Machines (SVM) and Multinomial Naive Bayes (MNB). Our best run in the DSL task achieved 91.46% accuracy.</abstract>
     </paper>
     <paper id="18">
-      <title><fixed-case>T</fixed-case>übingen system in <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2017 shared task: experiments with language identification and cross-lingual parsing</title>
+      <title>Tübingen system in <fixed-case>V</fixed-case>ar<fixed-case>D</fixed-case>ial 2017 shared task: experiments with language identification and cross-lingual parsing</title>
       <author><first>Çağrı</first><last>Çöltekin</last></author>
       <author><first>Taraka</first><last>Rama</last></author>
       <pages>146–155</pages>
@@ -3111,7 +3111,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <abstract>In this paper, we introduce a method of identifying the components (i.e. dimensions) of word embeddings that strongly signifies properties of a word. By elucidating such properties hidden in word embeddings, we could make word embeddings more interpretable, and also could perform property-based meaning comparison. With the capability, we can answer questions like “To what degree a given word has the property cuteness?” or “In what perspective two words are similar?”. We verify our method by examining how the strength of property-signifying components correlates with the degree of prototypicality of a target word.</abstract>
     </paper>
     <paper id="12">
-      <title><fixed-case>TTCS</fixed-case><tex-math>^{\mathcal{<fixed-case>E</fixed-case>}}</tex-math>: a Vectorial Resource for Computing Conceptual Similarity</title>
+      <title><fixed-case>TTCS</fixed-case><tex-math>^{\mathcal{E}}</tex-math>: a Vectorial Resource for Computing Conceptual Similarity</title>
       <author><first>Enrico</first><last>Mensa</last></author>
       <author><first>Daniele P.</first><last>Radicioni</last></author>
       <author><first>Antonio</first><last>Lieto</last></author>
@@ -4029,7 +4029,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
     </paper>
     <paper id="6">
       <title>Graph Methods for Multilingual <fixed-case>F</fixed-case>rame<fixed-case>N</fixed-case>ets</title>
-      <author><first>Collin</first><last>Baker</last></author>
+      <author><first>Collin F.</first><last>Baker</last></author>
       <author><first>Michael</first><last>Ellsworth</last></author>
       <pages>45–50</pages>
       <url hash="98ab8356">W17-2406</url>
@@ -11922,7 +11922,7 @@ with emotion annotation. We (a) analyse annotation reliability and annotation me
       <title>Descrição e modelagem de construções interrogativas <fixed-case>QU</fixed-case>- em Português Brasileiro para o desenvolvimento de um chatbot (Description and modeling of interrogative constructs <fixed-case>QU</fixed-case>- in <fixed-case>B</fixed-case>razilian <fixed-case>P</fixed-case>ortuguese for the development of a chatbot)[In <fixed-case>P</fixed-case>ortuguese]</title>
       <author><first>Natália Duarte</first><last>Marção</last></author>
       <author><first>Tiago Timponi</first><last>Torrent</last></author>
-      <author><first>Ely Edison Silva</first><last>Matos</last></author>
+      <author><first>Ely Edison da Silva</first><last>Matos</last></author>
       <pages>209-216</pages>
       <url hash="dc1f0c68">W17-6624</url>
     </paper>
@@ -12485,7 +12485,7 @@ with emotion annotation. We (a) analyse annotation reliability and annotation me
       <url hash="3bee8925">W17-7008</url>
     </paper>
     <paper id="9">
-      <title>A statistical model for morphology inspired by the <fixed-case>A</fixed-case>mis language</title>
+      <title>A statistical model for morphology inspired by the Amis language</title>
       <author><first>Isabelle</first><last>Bril</last></author>
       <author><first>Achraf</first><last>Lassoued</last></author>
       <author><first>Michel</first><last>de Rougemont</last></author>
@@ -13191,7 +13191,7 @@ with emotion annotation. We (a) analyse annotation reliability and annotation me
       <url hash="a89bfa9b">W17-7552</url>
     </paper>
     <paper id="53">
-      <title>Study on Visual Word Recognition in <fixed-case>B</fixed-case>angla across Different Reader Groups</title>
+      <title>Study on Visual Word Recognition in Bangla across Different Reader Groups</title>
       <author><first>Manjira</first><last>Sinha</last></author>
       <author><first>Tirthankar</first><last>Dasgupta</last></author>
       <pages>427–434</pages>

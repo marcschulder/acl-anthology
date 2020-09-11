@@ -88,7 +88,7 @@
       <language>eng</language>
     </paper>
     <paper id="8">
-      <title>Neural Text-to-Speech Synthesis for an Under-Resourced Language in a Diglossic Environment: the Case of Gascon <fixed-case>O</fixed-case>ccitan</title>
+      <title>Neural Text-to-Speech Synthesis for an Under-Resourced Language in a Diglossic Environment: the Case of <fixed-case>G</fixed-case>ascon <fixed-case>O</fixed-case>ccitan</title>
       <author><first>Ander</first><last>Corral</last></author>
       <author><first>Igor</first><last>Leturia</last></author>
       <author><first>Aure</first><last>Séguier</last></author>
@@ -191,7 +191,7 @@
       <language>eng</language>
     </paper>
     <paper id="18">
-      <title>Cross-Lingual Machine Speech Chain for <fixed-case>J</fixed-case>avanese, <fixed-case>S</fixed-case>undanese, <fixed-case>B</fixed-case>alinese, and Bataks Speech Recognition and Synthesis</title>
+      <title>Cross-Lingual Machine Speech Chain for <fixed-case>J</fixed-case>avanese, <fixed-case>S</fixed-case>undanese, <fixed-case>B</fixed-case>alinese, and <fixed-case>B</fixed-case>ataks Speech Recognition and Synthesis</title>
       <author><first>Sashi</first><last>Novitasari</last></author>
       <author><first>Andros</first><last>Tjandra</last></author>
       <author><first>Sakriani</first><last>Sakti</last></author>
@@ -430,7 +430,7 @@
       <language>eng</language>
     </paper>
     <paper id="41">
-      <title>Developing a <fixed-case>T</fixed-case>wi (Asante) Dictionary from <fixed-case>A</fixed-case>kan Interlinear Glossed Texts</title>
+      <title>Developing a Twi (Asante) Dictionary from <fixed-case>A</fixed-case>kan Interlinear Glossed Texts</title>
       <author><first>Dorothee</first><last>Beermann</last></author>
       <author><first>Lars</first><last>Hellan</last></author>
       <author><first>Pavel</first><last>Mihaylov</last></author>

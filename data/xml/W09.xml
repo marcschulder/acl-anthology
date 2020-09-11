@@ -3717,7 +3717,7 @@
       <url hash="c1f5b3ba">W09-3001</url>
     </paper>
     <paper id="2">
-      <title>Complex Linguistic Annotation – No Easy Way Out! A Case from <fixed-case>B</fixed-case>angla and <fixed-case>H</fixed-case>indi <fixed-case>POS</fixed-case> Labeling Tasks</title>
+      <title>Complex Linguistic Annotation – No Easy Way Out! A Case from Bangla and <fixed-case>H</fixed-case>indi <fixed-case>POS</fixed-case> Labeling Tasks</title>
       <author><first>Sandipan</first><last>Dandapat</last></author>
       <author><first>Priyanka</first><last>Biswas</last></author>
       <author><first>Monojit</first><last>Choudhury</last></author>
@@ -3792,7 +3792,7 @@
       <url hash="29a69e2b">W09-3010</url>
     </paper>
     <paper id="11">
-      <title>Stand-off <fixed-case>TEI</fixed-case> Annotation: the Case of the National Corpus of <fixed-case>P</fixed-case>olish</title>
+      <title>Stand-off <fixed-case>TEI</fixed-case> Annotation: the Case of the <fixed-case>N</fixed-case>ational <fixed-case>C</fixed-case>orpus of <fixed-case>P</fixed-case>olish</title>
       <author><first>Piotr</first><last>Bański</last></author>
       <author><first>Adam</first><last>Przepiórkowski</last></author>
       <pages>64–67</pages>
@@ -5353,7 +5353,7 @@
       <url hash="a28a1808">W09-3807</url>
     </paper>
     <paper id="8">
-      <title>An Incremental Earley Parser for Simple Range Concatenation Grammar</title>
+      <title>An Incremental <fixed-case>E</fixed-case>arley Parser for Simple Range Concatenation Grammar</title>
       <author><first>Laura</first><last>Kallmeyer</last></author>
       <author><first>Wolfgang</first><last>Maier</last></author>
       <pages>61–64</pages>
@@ -6078,7 +6078,7 @@
       <url hash="910ee4a2">W09-4003</url>
     </paper>
     <paper id="4">
-      <title><fixed-case>E</fixed-case>-Connecting <fixed-case>B</fixed-case>alkan Languages</title>
+      <title><fixed-case>E</fixed-case>-Connecting Balkan Languages</title>
       <author><first>Cvetana</first><last>Krstev</last></author>
       <author><first>Ranka</first><last>Stanković</last></author>
       <author><first>Duško</first><last>Vitas</last></author>
